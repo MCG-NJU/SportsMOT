@@ -174,8 +174,7 @@ Refer to [codes/conversion](./codes/conversion)
 
 ### Evaluation Kit
 
-Refer to [codes/evaluation](./codes/evaluation) for out-of-the-box evaluation based on [TrackEval](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/MOTChallenge-Official/Readme.md). :joystick:
-
+Refer to [codes/evaluation](./codes/evaluation) for out-of-the-box evaluation based on [TrackEval](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/MOTChallenge-Official/Readme.md) and [how to use](https://github.com/MCG-NJU/SportsMOT/tree/main/codes#how-to-eval). :joystick:
 ## Competition
 
 SportsMOT is currently used for [DeeperAction@ECCV-2022](https://deeperaction.github.io/tracks/sportsmot.html). Welcome!
