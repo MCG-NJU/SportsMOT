@@ -9,20 +9,19 @@ SportsMOT: A Large-Scale Multi-Object Tracking Dataset in Sports Scenes :basketb
 
 ### Demos
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/2wbjsyg5zbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Jigsaw demo](http://img.youtube.com/vi/2wbjsyg5zbI/0.jpg)](http://www.youtube.com/watch?v=2wbjsyg5zbI)
 
 📹 Jigsaw demo
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/C6QLjN7oVwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Basketball Demo](http://img.youtube.com/vi/C6QLjN7oVwA/0.jpg)](http://www.youtube.com/watch?v=C6QLjN7oVwA)
 
 📹 Basketball Demo(NBA)
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/GxP0F2yhQhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Volleyball Demo](http://img.youtube.com/vi/GxP0F2yhQhU/0.jpg)](http://www.youtube.com/watch?v=GxP0F2yhQhU)
 
 📹 Volleyball Demo(London 2012)
 
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/dlRZDiSTdyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Football Demo](http://img.youtube.com/vi/dlRZDiSTdyU/0.jpg)](http://www.youtube.com/watch?v=dlRZDiSTdyU)
 
 📹 Football Demo(FA Cup)
 
@@ -50,7 +49,7 @@ As for the diversity of video context, football games provide outdoor scenes and
 <p style = "text-align:center;color:gray;font-size:0.7em;text-indent:0">basic statistics of videos of 3 categories.</p>
 
 <details>
-<summary>explanation for the statistics above.</summary>
+<summary>Explanation for the statistics above :mag:</summary>
 
 - track: number of tracks per video.
 - tracklen: average length/number of frames per video
@@ -59,7 +58,6 @@ As for the diversity of video context, football games provide outdoor scenes and
 - density: average number of players per frame per video.
 - bboxsize: average size of bounding boxes(pixels).
 - defrate: average `deformationRate`
-
 
 We use **deformation rate** to measure the degree of deformation. Here, $w_{min},h_{min}$ refer to the minimum width and height of bounding boxes in a track fragment.
 
@@ -168,7 +166,7 @@ You can download the example for SportsMOT.
 Download links for SportsMOT full dataset:
 
 - [OneDrive](https://1drv.ms/u/s!AtjeLq7YnYGRgQPmuAkwWhndOc41?e=ItJaaa)
-- [Baidu Netdisk](https://pan.baidu.com/s/1wryLDorjOscBmDMrU3RThA), password: amb
+- [Baidu Netdisk](https://pan.baidu.com/s/1wryLDorjOscBmDMrU3RThA), password: ambs
 
 ### Format Conversion
 
@@ -176,7 +174,7 @@ Refer to [codes/conversion](./codes/conversion)
 
 ### Evaluation Kit
 
-Refer to [codes/evaluation](./codes/conversion) for out-of-the-box evaluation based on [TrackEval](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/MOTChallenge-Official/Readme.md). :joystick:
+Refer to [codes/evaluation](./codes/evaluation) for out-of-the-box evaluation based on [TrackEval](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/MOTChallenge-Official/Readme.md). :joystick:
 
 ## Competition
 

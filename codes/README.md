@@ -8,6 +8,7 @@ We perform our evaluation based on the official eval kit for MOT challenge: [Tra
  
 ### How to eval
 
+- Download this folder [TrackEval](./)
 - Run your code on SportsMOT to get results     
   - Results should be in [the format of TrackEval](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/MOTChallenge-Official/Readme.md#data-format).
 
@@ -74,17 +75,16 @@ v_iIMOsCGH58_c013.txt
 ```
 </details>
 
-- Download this folder [eval_kit](./)
+- **Put re-organized results into `TrackEval/data/res/sportsmot-val/tracker_to_eval/data`**
 - Install dependencies `TrackEval/requirements.txt` or `minimum_requirements.txt`
-- **Put all your data into `/TrackEval/data/res/sportsmot-val/tracker_to_eval/data`**
   - you can also validate results on training set by setting `--SPLIT_TO_EVAL val` to `train`
 - `cd path/to/TrackEval`
 - `bash evaluate.sh`
 
-In `codes/evaluation/TrackEval/data`, there are two folders.
+In `path/to/TrackEval/data`, there are two folders.
 
 - `res` is supposed to contain your tracking results.
-  - e.g. `/codes/evaluation/TrackEval/data/res/sportsmot-val/tracker_to_eval/data` should contain results for training data.
+  - e.g. `path/to/TrackEval/data/res/sportsmot-val/tracker_to_eval/data` should contain results for training data.
   - Note that this nested folder hierarchy,`sportsmot-val/tracker_to_eval/data`, is corresponding to the default format of TrackEval. 
 - `ref` contains re-organized reference ground truths, which can also be found in the full dataset.
 
