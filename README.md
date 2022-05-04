@@ -1,11 +1,10 @@
 # SportsMOT
 
-![](https://deeperaction.github.io/images/sports_mot.gif)
+![SportsMOT](https://user-images.githubusercontent.com/49837632/166649078-06cf2bbd-0bc7-4872-bf10-670ef7961e15.gif)
 
 SportsMOT: A Large-Scale Multi-Object Tracking Dataset in Sports Scenes :basketball::volleyball::soccer:
 
 ## Overview
-
 
 ### Demos
 
