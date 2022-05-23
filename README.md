@@ -163,10 +163,9 @@ You can download the example for SportsMOT.
 
 ### Download
 
-Download links for SportsMOT full dataset:
+Please Sign up in codalab, and participate in our [competition](https://codalab.lisn.upsaclay.fr/competitions/4433). Download links are available used in  `Participate`/`Get Data`.
 
-- [OneDrive](https://1drv.ms/u/s!AtjeLq7YnYGRgQPmuAkwWhndOc41?e=ItJaaa)
-- [Baidu Netdisk](https://pan.baidu.com/s/1wryLDorjOscBmDMrU3RThA), password: ambs
+
 
 ### Format Conversion
 
@@ -194,7 +193,18 @@ This track is provide by [MCG Group @ Nanjing University](http://mcg.nju.edu.cn/
 - Yichun Yang     
 
 Valuable issues and chat are welcomed.
+
 ## Terms
 
+SportsMOT is allowed to be used only if you accept these terms and conditions of our [competition](https://codalab.lisn.upsaclay.fr/competitions/4433).
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+- You agree to us storing your submission results for evaluation purposes.
+- You agree that if you place in the top-10 at the end of the challenge you will submit your code so that we can verify that you have not cheated.
+- You agree not to distribute the DeeperAction ECCV 2022 SportsMOT dataset without prior written permission.
+- Other tracking datasets (e.g., MOT20/) used for pretraining are ***FORBIDDEN***.
+- Each team can have one or more members.
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
+
+SportsMOT is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
