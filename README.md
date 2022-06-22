@@ -3,6 +3,14 @@
 ![SportsMOT](https://user-images.githubusercontent.com/49837632/166649078-06cf2bbd-0bc7-4872-bf10-670ef7961e15.gif)
 
 SportsMOT: A Large-Scale Multi-Object Tracking Dataset in Sports Scenes :basketball::volleyball::soccer:
+## News
+
+- SportsMOT is currently used for [DeeperAction@ECCV-2022](https://deeperaction.github.io/tracks/sportsmot.html). Welcome!
+
+![](https://deeperaction.github.io/images/logo.png)
+
+- SportsMOT has been shared to community via [Paperwithcode](https://paperswithcode.com/dataset/sportsmot)
+
 
 ## Overview
 
@@ -43,7 +51,11 @@ Football: 673
 As for the diversity of video context, football games provide outdoor scenes and the rest results provide indoor scenes. Furthermore, the views of the playing courts do vary, which include common side view of crowded audience like in NBA, views from the serve zone in volleyball games, and aerial view in football games. Diverse scenes in our dataset will encourage the algorithms to generalize to different sports tracking settings
 ### Basic Statstics
 
-![](https://gitee.com/ZXYFrank/picgo/raw/master/img/src/20220503193217.png)
+| Category(avg.) | #frames | #tracks | track gap len | track length | #bboxes per frame (density) |
+|----------------|---------|---------|---------------|--------------|-----------------------------|
+| Basketball     | 845.4   | 10      | 68.7          | 767.9        | 9.1                         |
+| Volleyball     | 360.4   | 12      | 38.2          | 335.9        | 11.2                        |
+| Football       | 673.9   | 20.5    | 116.1         | 422.1        | 12.8                        |
 
 <p style = "text-align:center;color:gray;font-size:0.7em;text-indent:0">basic statistics of videos of 3 categories.</p>
 
@@ -62,13 +74,12 @@ We use **deformation rate** to measure the degree of deformation. Here, $w_{min}
 
 <!-- $$\text{deformationRate}(\mathbf{b}_{i}) =  \frac{w_{max} - w_{i}}{w_{min}} + \frac{h_{max} - h_{i}}{h_{min}}$$ -->
 
-![](https://gitee.com/ZXYFrank/picgo/raw/master/img/src/20220429153828.png)
+![](./imgs/)
 
 
 </details>
 
-
-![](https://gitee.com/ZXYFrank/picgo/raw/master/img/src/20220404134703.jpg)
+![Gaussian](./imgs/speed_gaussian.png)
 
 <p style = "text-align:center;color:gray;font-size:0.7em;text-indent:0">Distributions(Gaussian PDF) of the fragment speed in 3 sports in SportsMOT.</p> 
 
@@ -164,8 +175,6 @@ You can download the example for SportsMOT.
 
 Please Sign up in codalab, and participate in our [competition](https://codalab.lisn.upsaclay.fr/competitions/4433). Download links are available used in  `Participate`/`Get Data`.
 
-
-
 ### Format Conversion
 
 Refer to [codes/conversion](./codes/conversion)
@@ -173,13 +182,6 @@ Refer to [codes/conversion](./codes/conversion)
 ### Evaluation Kit
 
 Refer to [codes/evaluation](./codes/evaluation) for out-of-the-box evaluation based on [TrackEval](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/MOTChallenge-Official/Readme.md) and [how to use](https://github.com/MCG-NJU/SportsMOT/tree/main/codes#how-to-eval). :joystick:
-## Competition
-
-SportsMOT is currently used for [DeeperAction@ECCV-2022](https://deeperaction.github.io/tracks/sportsmot.html). Welcome!
-
-![](https://gitee.com/ZXYFrank/picgo/raw/master/img/src/20220503192732.png)
-
-![](https://gitee.com/ZXYFrank/picgo/raw/master/img/src/20220503194255.jpg)
 
 ## Contact 
 
