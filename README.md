@@ -5,6 +5,7 @@
 SportsMOT: A Large-Scale Multi-Object Tracking Dataset in Sports Scenes :basketball::volleyball::soccer:
 ## News
 
+- 🔥 **[Notifications and reminders](./competition.md)** for SporstMOT competition.
 - SportsMOT is currently used for [DeeperAction@ECCV-2022](https://deeperaction.github.io/tracks/sportsmot.html). Welcome!
 
 ![](./imgs/deeperaction_logo.png)
