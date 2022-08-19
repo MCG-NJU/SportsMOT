@@ -25,14 +25,13 @@ These info below should be provided as the **submission description**.
 
 *At least, the **description of the final submission** should contain these info for confirmation.*
 
-----
 
-*Example*
+*EXAMPLE*
 
 
 ```text
 Name: John 
-Team(Optional): MCG NJU
+Team: MCG NJU
 Email: john@abc.com
 Affiliation: Multimedia Computing Group, Nanjing University
 Whether willing to offer report: Yes
@@ -40,7 +39,8 @@ Whether willing to offer report: Yes
 
 *NOTE*
 
-- `Team` is required if you are participating together with others, i.e. teammates in a team should share the same `Team` name.
+- `Team` is required if you are participating together with others
+  - All of the participants in a team should share the same `Team` name.
 - `Affiliation` should be the full name, which can be easily recognized.
 - 📃 `Report` means a `pdf` which clearly explains the **models**, **settings** and **tricks** supporting the results. 
 
@@ -48,6 +48,7 @@ Whether willing to offer report: Yes
 ## Other Notifications
 
 
+- :four_leaf_clover: A rising tide lifts all boats. We highly recommend **submitting results to the leaderboard**. 
 - There is no limit of the number of participants, and the entry is still open.
 - Currently, the results shown on the leaderboard are those *voluntarily submitted to it*. 
   - Test results are private by default. And  HOTA is shown as the `Scores` of submissions.
