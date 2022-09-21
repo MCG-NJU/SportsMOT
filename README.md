@@ -174,7 +174,7 @@ You can download the example for SportsMOT.
 
 ### Download
 
-Please Sign up in codalab, and participate in our [competition](https://codalab.lisn.upsaclay.fr/competitions/4433). Download links are available used in  `Participate`/`Get Data`.
+Please Sign up in codalab, and participate in our [competition](https://codalab.lisn.upsaclay.fr/competitions/4433). Download links are available in  `Participate`/`Get Data`.
 
 ### Format Conversion
 
