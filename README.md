@@ -5,8 +5,10 @@
 SportsMOT: A Large-Scale Multi-Object Tracking Dataset in Sports Scenes :basketball::volleyball::soccer:
 ## News
 
-- 🔥 **[Notifications and reminders](./competition.md)** for SportsMOT competition.
-- SportsMOT is currently used for [DeeperAction@ECCV-2022](https://deeperaction.github.io/tracks/sportsmot.html). Welcome!
+- 🔥 Our paper [**SportsMOT: A Large Multi-Object Tracking Dataset in Multiple Sports Scenes**](https://arxiv.org/abs/2304.05170) is now available on arxiv.
+- 🔥 SportsMOT test set has been made public on [**Codalab**](https://codalab.lisn.upsaclay.fr/competitions/4433#participate). Welcome!
+- [Notifications and reminders](./competition.md) for SportsMOT competition.
+- SportsMOT is currently used for [DeeperAction@ECCV-2022](https://deeperaction.github.io/tracks/sportsmot.html).
 
 ![](./imgs/deeperaction_logo.png)
 
