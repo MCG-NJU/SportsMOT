@@ -204,11 +204,21 @@ SportsMOT is allowed to be used only if you accept these terms and conditions of
 
 - You agree to us storing your submission results for evaluation purposes.
 - You agree that if you place in the top-10 at the end of the challenge you will submit your code so that we can verify that you have not cheated.
-- You agree not to distribute the DeeperAction ECCV 2022 SportsMOT dataset without prior written permission.
-- Other tracking datasets (e.g., MOT20/) used for pretraining are ***FORBIDDEN***.
+- You agree not to distribute the SportsMOT dataset without prior written permission.
 - Each team can have one or more members.
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
 
 SportsMOT is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+## Citation
+
+```
+@article{cui2023sportsmot,
+  title={SportsMOT: A Large Multi-Object Tracking Dataset in Multiple Sports Scenes},
+  author={Cui, Yutao and Zeng, Chenkai and Zhao, Xiaoyu and Yang, Yichun and Wu, Gangshan and Wang, Limin},
+  journal={arXiv preprint arXiv:2304.05170},
+  year={2023}
+}
+```
