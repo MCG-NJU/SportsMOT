@@ -1,13 +1,15 @@
 # SportsMOT
 
+The official repo of the ICCV 2023 paper [**SportsMOT: A Large Multi-Object Tracking Dataset in Multiple Sports Scenes**](https://arxiv.org/abs/2304.05170)
+
 ![SportsMOT](https://user-images.githubusercontent.com/49837632/166649078-06cf2bbd-0bc7-4872-bf10-670ef7961e15.gif)
 
-SportsMOT: A Large Multi-Object Tracking Dataset in Multiple Sports Scenes
+
 
 :basketball::volleyball::soccer:
 ## News
 
-- 🔥 Our paper [**SportsMOT: A Large Multi-Object Tracking Dataset in Multiple Sports Scenes**](https://arxiv.org/abs/2304.05170) is now available on arxiv.
+- 🔥 Our paper **SportsMOT** is accepted to ICCV2023. Code for the proposed method **MixSort** will be released in a few days.
 - 🔥 SportsMOT test set has been made public on [**Codalab**](https://codalab.lisn.upsaclay.fr/competitions/12424#participate). Welcome!
 - [Notifications and reminders](./competition.md) for DeeperAction@ECCV-2022 competition.[***Finished***]
 - SportsMOT is used for [DeeperAction@ECCV-2022](https://deeperaction.github.io/tracks/sportsmot.html).[***Finished***]
