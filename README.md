@@ -9,8 +9,9 @@ The official repo of the ICCV 2023 paper [**SportsMOT: A Large Multi-Object Trac
 :basketball::volleyball::soccer:
 ## News
 
+- 🔥 Code for our [**MixSort**](https://github.com/MCG-NJU/MixSort) has been available.
 - 🔥 Our paper **SportsMOT** is accepted to ICCV2023. Code for the proposed method **MixSort** will be released in a few days.
-- 🔥 SportsMOT test set has been made public on [**Codalab**](https://codalab.lisn.upsaclay.fr/competitions/12424#participate). Welcome!
+- SportsMOT test set has been made public on [**Codalab**](https://codalab.lisn.upsaclay.fr/competitions/12424#participate). Welcome!
 - [Notifications and reminders](./competition.md) for DeeperAction@ECCV-2022 competition.[***Finished***]
 - SportsMOT is used for [DeeperAction@ECCV-2022](https://deeperaction.github.io/tracks/sportsmot.html).[***Finished***]
 
